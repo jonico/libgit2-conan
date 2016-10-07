@@ -1,0 +1,9 @@
+*.pyc
+
+
+# Qt creator
+*.config
+*.creator
+*.files
+*.includes
+
